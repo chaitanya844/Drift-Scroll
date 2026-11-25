@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">Performs short, curved swipes during sessions you start. A floating Stop button stays visible. Stops when the screen locks or the timer expires. Does not read screen text, record content, or access the internet.</string>
+</resources>

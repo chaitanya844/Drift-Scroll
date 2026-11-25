@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.gladbox.scrolltest">
+    <application android:label="Drift test fixture" android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        <activity android:name=".ReadingActivity" android:exported="true" />
+    </application>
+</manifest>
